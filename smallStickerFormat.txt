@@ -1,0 +1,4 @@
+Very, very long and boring company name
+LFirma;Lname
+Lstrasse
+LLand;Lplz;Lort
